@@ -1,7 +1,6 @@
 package br.net.uno.contatos.controller
 
 import br.net.uno.contatos.model.Account
-import br.net.uno.contatos.repository.account.AccountRepository
 import br.net.uno.contatos.service.account.AccountService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
